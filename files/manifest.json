@@ -1,4 +1,17 @@
 {
-  "version": 1,
-  "background": "rgb05.jpeg"
+  "version": 3,
+  "playlist": [
+    {
+      "file": "rgb02.jpeg",
+      "duration_sec": 10
+    },
+    {
+      "file": "rgb03.jpeg",
+      "duration_sec": 30
+    },
+    {
+      "file": "rgb05.jpeg",
+      "duration_sec": 15
+    }
+  ]
 }
